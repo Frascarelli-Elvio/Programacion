@@ -1,0 +1,63 @@
+div {
+    border:  black;
+    /*display: inline-block;
+    /*width: 48%;*/
+}
+
+body{
+    border: 5px solid red;
+    /*width: 1vw;
+    width: 1vh;
+    border: 100px 1200px;*/
+}
+.encabezado{
+    background-color: aqua;
+}
+.izquierda{
+    background-color: green;
+}
+.derecha{
+    background-color: grey;
+}
+.footer{
+    background-color: chocolate;
+}
+ul{
+    list-style-type:lower-alpha;
+}
+ol{
+    list-style:upper-alpha;
+}
+.list1{
+    list-style-type: circle;
+}
+.list2{
+    list-style-type: square;
+}
+.estilo1{
+    color: green;
+    font-size:x-large;
+    font-weight: bolder;
+}
+.estilo2{
+    color:yellow;
+    font-size:large;
+    font-style: oblique;
+    font-weight: bold;
+}
+.estilo3{
+    color: blueviolet;
+    font-size: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.estilo4{
+    font-stretch: narrower;
+    color: chocolate;
+    font-size: 25px;
+    font-weight: bold;
+}
+div{
+    background-color: aquamarine;
+    
+}

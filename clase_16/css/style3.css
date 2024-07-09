@@ -1,0 +1,112 @@
+.encabezado{
+    background-color: rgb(173, 173, 173);
+    text-align: right;
+    height: 100px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column-reverse;
+    align-content: center;
+
+
+}
+.abajoEncabezado{
+    /*background-color: antiquewhite;*/
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content:space-between;
+    flex-wrap:nowrap;
+    align-items: center;
+
+}
+.arribaEncabezado{
+    /*background-color: aqua;*/
+    width: 100%;
+    height: 50%;
+    display:flex;
+    justify-content:flex-end;
+    align-items: center;
+}
+.logo{
+    background-color: rgb(139, 18, 18);
+    text-align: center;
+    width: 150px;
+    height: 25px;
+    margin-left: 10px;
+
+}
+.menu1{
+    background-color: aquamarine;
+    text-align: center;
+    width: 300px;
+    height: 25px;
+    margin-right: 10px;
+}
+.menu2{
+    background-color: rgb(44, 109, 167);
+    text-align: center;
+    width: 450px;
+    height: 25px;
+    margin-right: 10px;
+}
+.centro{
+    width: 100%;
+    height: 700px;
+    display:flex;
+    justify-content: space-between;
+    flex-flow: row wrap;
+    margin-top: 5px;
+
+}
+.izquierdaArriba{
+    background-color: blueviolet;
+    text-align: center;
+    width: 32%;
+    height: 48%;
+    border-radius: 8px;
+}
+.centroChico{
+    background-color: rgb(43, 226, 58);
+    text-align: center;
+    width: 32%;
+    height: 48%;
+    border-radius: 8px;
+}
+.derechaArriba{
+    background-color: rgb(226, 43, 156);
+    text-align: center;
+    width: 32%;
+    height: 48%;
+    border-radius: 8px;
+}
+.izquierdaAbajo{
+    background-color: rgb(3, 77, 25);
+    text-align: center;
+    width: 66%;
+    height: 48%;
+    border-radius: 8px;
+}
+.derechaAbajo{
+    background-color:rgb(148, 71, 17);
+    text-align: center;
+    width: 32%;
+    height: 48%;
+    border-radius: 8px;
+}
+.pie{
+    background-color: rgb(38, 189, 235);
+    text-align: left;
+    height: 100px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.elemento{
+    background-color: rgb(23, 7, 173);
+    text-align: center;
+    width: 150px;
+    height: 25px;
+    margin-right: 10px;
+
+}

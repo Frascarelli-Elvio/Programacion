@@ -9,7 +9,7 @@ import * as rls from 'readline-sync';
 let solicitoNombre : string;
 let solicitoApellido : string;
 let seguimos : string;
-seguimos = " ";
+seguimos = "";
 
 
 function inmprimirNombre(nombre : string, apellido : string) {

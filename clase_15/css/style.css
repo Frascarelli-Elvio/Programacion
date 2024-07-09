@@ -1,0 +1,31 @@
+/* Selector de tipo */
+p {
+    color: red;
+   font-size: 20px;;
+}
+
+/* Selector de clase */
+.colorAzul {
+    color: blue;
+    font-size: 25px;
+}
+.colorVerde {
+    color: green;
+    font-size: 80px;
+}
+.colorRosa {
+    color: pink;
+    font-size: 25px;
+}
+/* Seledector de Identificacion 
+#especial ´{
+    ddddddddddddddddddd;
+}*/
+
+body { /* background-color: #EE0505; */
+    /*background-image:url("../imagenes/Moto\ Beta\ 04.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;*/
+    background-color: beige;
+}

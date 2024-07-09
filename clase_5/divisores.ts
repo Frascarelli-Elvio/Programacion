@@ -9,7 +9,6 @@ import*as rls from 'readline-sync';
 let numeroEntero : number;
 let seguirCalculando : string;
 
-
 seguirCalculando = "si";
 
 function esMultiplo(num1 : number, num2 : number) : boolean {

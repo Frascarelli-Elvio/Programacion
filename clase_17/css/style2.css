@@ -1,0 +1,69 @@
+/*use este archivo para practicar lo visto en clase*/
+.titulo{
+    font-size: 50px;
+    text-align: center;
+}
+.subtitulo{
+    background-color: rgb(129, 218, 185);
+    text-decoration:underline;
+    color:white;
+}
+.titulo:hover{
+    color: darkgreen;
+    background-color: beige;
+}
+.subtitulo:hover{
+    background-color: brown;
+    color:cadetblue;
+    cursor: progress;
+}
+ul>li>ol>li{
+    color: rgb(209, 18, 4);
+    font-size:15px;
+    font-family:'Times New Roman', Times, serif
+}
+ol li{
+    font-style: italic;
+}
+
+p.fuente{
+    text-align: center;
+    font-family:'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.caja{
+    background-color: rgb(201, 201, 93);
+    border-radius: 8px;
+    border-color: rgb(255, 0, 55);
+    border-style: dashed;
+}
+.detalle{
+    background-color: rgb(96, 5, 216);
+}
+h3>span {
+    color: rgb(42, 185, 61);
+}
+span{
+    font-size: 20px;
+    color: crimson;
+}
+.link:link{
+    color:red;
+    background-color: grey;
+}
+.enlace:active{
+    background-color: rgb(6, 148, 53);
+    color:whitesmoke;
+}
+.enlace:hover{
+    color:blue;
+}
+.enlace:visited{
+    color: black;
+}
+/* consigna de ejercicio obligatorio*/
+.cambioColor:hover{
+    color: aqua;
+}
+.cambioColor:visited{
+    color: darkorchid;
+}
